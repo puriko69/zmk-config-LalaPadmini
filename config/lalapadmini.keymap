@@ -177,7 +177,7 @@
         };
 
         KANA {
-            bindings = <&kp A>;
+            bindings = <&kp JP_HANZEN>;
             key-positions = <32 33>;
         };
     };
